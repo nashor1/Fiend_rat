@@ -30,6 +30,10 @@ FiendRAT是一个远程控制工具（RAT）旨在通过安全加密连接远程
 - shellcode生成
 - 服务器混淆器（可配置）
 
+### 基于AsyncRat做出的二开内容
+
+shellcode加密替换（dount更新）、分组功能（客户端写入注册表实现）、ui风格替换
+
 ## 安装和部署
 
 FiendRAT需要.Net Framework v4(客户端) 和 v4.6+(服务端) 才能运行
